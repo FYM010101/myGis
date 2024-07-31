@@ -1,0 +1,282 @@
+{
+    "type": "FeatureCollection",
+    "name": "camera",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "001",
+                "名称": "成都市东湖公园",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.035691684006139,
+                    30.634827763261356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "002",
+                "名称": "青龙湖",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.033982217989845,
+                    30.631861844974829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "003",
+                "名称": "龙泉山停车场",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.037597318253788,
+                    30.631885958498199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "004",
+                "名称": "龙泉山地下停车场",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.039587024600607,
+                    30.633646229473445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "005",
+                "名称": "龙泉驿区",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.040848106088035,
+                    30.635502918947406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "006",
+                "名称": "成华区",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.040231577360856,
+                    30.637359572789251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "007",
+                "名称": "青城山",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.03849408731152,
+                    30.637745366518736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "008",
+                "名称": "人民公园",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.043510389228146,
+                    30.636973777521188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "009",
+                "名称": "四川公园",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.044883566847773,
+                    30.635406468423586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "010",
+                "名称": "四川省人民公园",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.043146076798436,
+                    30.634731312064432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "011",
+                "名称": "四川人民公园入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.042697692269584,
+                    30.633043400553376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "012",
+                "名称": "人民公园E入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.041716851112696,
+                    30.631885958498199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "013",
+                "名称": "四川省人民公园D入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.041324514649958,
+                    30.63039090868498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "014",
+                "名称": "四川省人民公园C入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.038466063278449,
+                    30.635478806325466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "015",
+                "名称": "四川人民公园入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.036672525163027,
+                    30.638637508625312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "016",
+                "名称": "四川省人民公园",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.033842097824575,
+                    30.639505530885693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "017",
+                "名称": "人民公园A入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.031964487609997,
+                    30.636949665265853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "018",
+                "名称": "四川省人民公园B入口",
+                "位置": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.032104607775253,
+                    30.634369619219608
+                ]
+            }
+        }
+    ]
+}
