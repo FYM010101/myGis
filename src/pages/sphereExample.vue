@@ -1,8 +1,16 @@
 <!--
  * @Author: FYM010101 814116576@qq.com
+ * @Date: 2024-07-31 09:46:37
+ * @LastEditors: FYM010101 814116576@qq.com
+ * @LastEditTime: 2024-08-01 15:14:28
+ * @FilePath: \myGis\src\pages\sphereExample.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<!--
+ * @Author: FYM010101 814116576@qq.com
  * @Date: 2024-04-16 14:48:07
  * @LastEditors: FYM010101 814116576@qq.com
- * @LastEditTime: 2024-06-07 16:45:52
+ * @LastEditTime: 2024-08-01 15:14:18
  * @FilePath: \mytest\src\components\examplePage\ExamplePage.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -60,6 +68,12 @@
                 imageUrl: 'carSimulator.png',
                 name: 'carSimulator',
                 description:'cesium实现车辆模型在3dtiles模型上的贴地行驶动画'
+              },
+              '动画场景(cesium)': {
+                routePath: '/animation',
+                imageUrl: 'carSimulator.png',
+                name: 'carSimulator',
+                description:'cesium实现点、线动画'
               }
             },
           ],

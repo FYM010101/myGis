@@ -1,11 +1,4 @@
-<!--
- * @Author: FYM010101 814116576@qq.com
- * @Date: 2024-04-16 14:16:23
- * @LastEditors: FYM010101 814116576@qq.com
- * @LastEditTime: 2024-06-07 09:20:52
- * @FilePath: \mytest\src\pages\cesiumPage\slider\Slider.vue
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 <template>
   <el-container>
     <el-header style="padding: 5px; height: 35px">

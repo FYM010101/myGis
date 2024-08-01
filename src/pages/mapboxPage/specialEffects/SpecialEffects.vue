@@ -2,7 +2,7 @@
  * @Author: FYM010101 814116576@qq.com
  * @Date: 2024-05-14 19:46:37
  * @LastEditors: FYM010101 814116576@qq.com
- * @LastEditTime: 2024-07-29 16:38:14
+ * @LastEditTime: 2024-07-31 13:41:02
  * @FilePath: \mytest\src\pages\mapboxPage\specialEffects\SpecialEffects.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -50,8 +50,6 @@ export default {
             varying vec2 vUv;
             uniform float iTime;
             void main(){
-                // float gradMix = (vPosition.z+uHeight/2.0)/uHeight;
-                // gl_FragColor = vec4(1.0,1.0,0,1.0-gradMix);
                 const int zoom = 40;
                 const float brightness = 0.975;
                 float fScale = 1.25;
@@ -123,9 +121,6 @@ export default {
                     let lightRingMesh = new THREE.Mesh(cylinderGeom, shaderMaterial);
                     lightRingMesh.rotation.x = -0.5 * Math.PI;
                     lightRingMesh.geometry.computeBoundingBox();
-                    const { min, max } = lightRingMesh.geometry.boundingBox;
-                    //  设置物体高差
-                    let uHeight = max.y - min.y;
                     shaderMaterial.uniforms.iTime = {
                         value: 1.0
                     }

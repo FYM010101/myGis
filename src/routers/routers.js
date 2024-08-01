@@ -17,6 +17,7 @@ import specialEffects from "@/pages/mapboxPage/specialEffects/SpecialEffects.vue
 import planeExample from "@/pages/planeExample.vue";
 import sphereExample from "@/pages/sphereExample.vue";
 import pointMove from "@/pages/mapboxPage/pointMove/PointMove.vue"
+import animation from "@/pages/cesiumPage/animation/animation.vue"
 
 Vue.use(Router);
 
@@ -53,6 +54,10 @@ export default new Router({
         {
             path: '/pointMove',
             component: pointMove
+        },
+        {
+            path: '/animation',
+            component: animation
         }
         
     ],
